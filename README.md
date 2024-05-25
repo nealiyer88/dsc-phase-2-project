@@ -1,19 +1,21 @@
 # Film Content Insights
 
+![Film Content Insights](images/film%20content.jpg)
+
 ## Overview
 This project analyzes current trends in the film industry by examining the performance of different genres at the box office. By investigating various datasets, including Box Office Mojo, IMDB, Rotten Tomatoes, TheMovieDB, and The Numbers, we aim to identify what types of films are currently most successful. This analysis will help in forecasting which film genres hold the most promise for profitability and audience engagement, thus guiding strategic decisions related to film production, marketing, and distribution.
 
-![Film Content Insights](images/film_content_insights.jpg)
+
 
 ## Business Problem
 The film industry is highly competitive and continuously evolving, with varying audience preferences and technological advancements shaping market dynamics. Understanding which film genres are performing well at the box office can enable the newly established movie studio to allocate resources effectively, maximize returns, and expand its market presence. By leveraging detailed box office data, the studio can make informed decisions about which types of films to produce, potentially leading to increased profitability and audience acclaim.
 
-![Business Problem](images/business_problem.jpg)
+
 
 ## Data
 The datasets include a mix of structured data from well-known film databases, covering extensive details about film genres, box office earnings, ratings, and audience feedback across several years. Each film is identified uniquely, allowing for precise tracking of its performance from release to international earnings. This comprehensive data enables an in-depth analysis of market trends, audience preferences, and financial outcomes associated with different film types.
 
-![Data](images/data.jpg)
+
 
 ## Methods
 1. **Data Collection and Loading:**
@@ -39,17 +41,20 @@ The datasets include a mix of structured data from well-known film databases, co
 
 ## Results
 ### ROI Based on Genre
-![Genre ROI](images/genre_roi.jpg)
+
+![Genre ROI](images/genres.jpg)
+
 - **Mystery and Horror** genres typically have lower production costs and high ROIs.
 - **Animation, Adventure, and Sci-Fi** genres perform well globally with higher budgets.
 
 ### ROI Based on Directors
-![Director ROI](images/director_roi.jpg)
+
+![Director ROI](images/director.jpg)
 - Films directed by **Oscar-winning directors** have significantly higher domestic and worldwide ROIs compared to those directed by non-Oscar-winning directors.
 - Directors like **Steven Spielberg, Ridley Scott, and David Fincher** lead in mean worldwide gross.
 
 ### ROI Based on Runtime
-![Runtime ROI](images/runtime_roi.jpg)
+![Runtime ROI](images/runtime.jpg)
 - **Short films (0-90 minutes)** offer the highest ROI both domestically and worldwide with lower production costs.
 - **Mid-length films (91-150 minutes)** also perform well, especially in international markets.
 - **Long films (151+ minutes)** have mixed results, with strong international performance but challenges in domestic profitability.
@@ -73,4 +78,5 @@ The datasets include a mix of structured data from well-known film databases, co
 ## For More Information
 - See the full analysis in the Jupyter Notebook or review this presentation.
 - For additional info, contact [Your Name] at [your.email@example.com].
+
 
