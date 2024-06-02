@@ -77,6 +77,7 @@ The datasets include a mix of structured data from well-known film databases, co
 
 ## For More Information
 - See the full analysis in the Jupyter Notebook or review this presentation.
-- For additional info, contact [Your Name] at [your.email@example.com].
+- Tableau Dashboard available here: https://public.tableau.com/app/profile/neal.iyer/viz/FilmAnalysis_17173656924780/Dashboard1?publish=yes
+- For additional info, contact Neal Iyer at neal.iyer88@gmail.co
 
 
