@@ -42,19 +42,19 @@ The datasets include a mix of structured data from well-known film databases, co
 ## Results
 ### ROI Based on Genre
 
-![Genre ROI](images/genres.jpg)
+![Genre ROI](images/output Genres.png)
 
 - **Mystery and Horror** genres typically have lower production costs and high ROIs.
 - **Animation, Adventure, and Sci-Fi** genres perform well globally with higher budgets.
 
 ### ROI Based on Directors
 
-![Director ROI](images/director.jpg)
+![Director ROI](images/output directors.png)
 - Films directed by **Oscar-winning directors** have significantly higher domestic and worldwide ROIs compared to those directed by non-Oscar-winning directors.
 - Directors like **Steven Spielberg, Ridley Scott, and David Fincher** lead in mean worldwide gross.
 
 ### ROI Based on Runtime
-![Runtime ROI](images/runtime.jpg)
+![Runtime ROI](images/output runtime.png)
 - **Short films (0-90 minutes)** offer the highest ROI both domestically and worldwide with lower production costs.
 - **Mid-length films (91-150 minutes)** also perform well, especially in international markets.
 - **Long films (151+ minutes)** have mixed results, with strong international performance but challenges in domestic profitability.
